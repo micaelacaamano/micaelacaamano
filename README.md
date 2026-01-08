@@ -1,8 +1,8 @@
 <h1 align="center">Micaela Caamaño 💫</h1>
 
 <div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px;">
-  <img src="imagenes/micaela.jpg" alt="Micaela" width="250" style="border-radius: 15px;" />
-  <img src="imagenes/Code Hacker Sticker.gif" height="200" />
+  <img src="micaela.jpg" alt="Micaela" width="250" style="border-radius: 15px;" />
+  <img src="Code Hacker Sticker.gif" height="200" />
 </div>
 
 ---
