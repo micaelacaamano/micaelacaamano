@@ -1,7 +1,7 @@
 <h1 align="center">Micaela Caamaño 💫</h1>
 
 <div align="center">
-  <img src="micaela.jpg" alt="Micaela" width="250" style="border-radius:15px;" />
+  <img src="micaela.jpg" alt="Micaela" width="250" />
 </div>
 
 
