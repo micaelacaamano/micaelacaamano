@@ -54,7 +54,7 @@ La mayoría de mis proyectos actuales son de carácter **académico**, aunque es
 
 ## 📬 Contacto.
 
-- 📧 [micacaam97@gmail.com](mailto:micacaam97@gmail.com)  
+- 📧 [Email: micacaam97@gmail.com](mailto:micacaam97@gmail.com)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/micacaam/)  
 - 🐱‍💻 [GitHub](https://github.com/micaelacaamano)
 
