@@ -1,8 +1,7 @@
 <h1 align="center">Micaela Caamaño 💫</h1>
 
-<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px;">
-  <img src="micaela.jpg" alt="Micaela" width="250" style="border-radius: 15px;" />
-  <img src="Code Hacker Sticker.gif" height="200" />
+<div align="center" style = justify-content: center;">
+  <img src="micaela.jpg" alt="Micaela" width="250" style = "border-radius: 15 px;" />
 </div>
 
 ---
@@ -11,25 +10,27 @@
 
 ¡Hola, soy Micaela!👋
 
-Apasionada por la tecnología y el desarrollo de software, Actualmente me encuentro en formación, con curiosidad genuina, muchas ganas de aprender y el objetivo claro de seguir forjando mi camino dentro del mundo tech. Actualmente busco mi primera oportunidad, donde pueda aplicar todo lo que vengo aprendiendo y ganar experiencia práctica.
+Estudiante del último año de la **Tecnicatura Superior en Desarrollo de Software** en el **Instituto Superior Santo Domingo**.
 
-***Este perfil es parte de ese proceso. 🌱***
+Me encuentro en una etapa de formación activa, enfocada en consolidar bases técnicas, con curiosidad genuina, y adquirir experiencia práctica. Con el objetivo claro de continuar forjando mi camino dentro del mundo tech y seguir creciendo profesionalmente. 
+
+***Este GitHub reúne proyectos académicos y trabajos de práctica que reflejan ese proceso 🌱.***
 
 ---
 
 # 🎓 Formacion Academica.
 
-Soy estudiante del último año de la **Tecnicatura Superior en Desarrollo de Software** en el **Instituto Superior Santo Domingo**. 
+A lo largo de la carrera trabajé con fundamentos de programación, lógica, bases de datos y desarrollo de aplicaciones. Me entusiasma la idea de poder crear en el futuro un sistema completo con las herramientas que hoy voy conociendo.
 
-Desde el inicio de mi carrera, aprendí las bases sólidas de la programación 💻, lo que me permite adaptarme y migrar entre lenguajes. Me entusiasma la idea de poder crear en el futuro un sistema completo con las herramientas que hoy voy conociendo, y con un gran interes en especializarme en inteligencia artificial 🤖 y/o bases de datos 💾. 
+A futuro, busco profundizar mis conocimientos en **bases de datos** e **inteligencia artificial**.
 
-Además, cuanto con mas de 9 años de experiencia en atención al cliente, lo que me permitió desarrollar habilidades claves como la comunicación efectiva 🗣️, la empatia 🤝 y la atencion al detalle 👀.
+Entiendo este camino como un proceso continuo, donde cada proyecto, cada error y cada mejora construyen algo más grande.
 
 ---
 
-# 🎯 Objetivo.
+# Experiencia previa.
 
-  Mi objetivo es seguir aprendiendo, aportar valor en cada proyecto, formar parte de un equipo, como tambien ser parte de proyectos que me permitan desafiarme y seguir creciendo profesionalmente 🚀 
+Cuento con más de **9 años de experiencia en atención al cliente**, lo que me permitió desarrollar habilidades transferibles al ámbito profesional y técnico, como comunicación efectiva, organización, trabajo en equipo y atención al detalle.
 
 ---
 
@@ -38,3 +39,15 @@ Además, cuanto con mas de 9 años de experiencia en atención al cliente, lo qu
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,py,html,css,mysql,git,github" />
 </p>
+
+La mayoría de mis proyectos actuales son de carácter **académico**, aunque estoy comenzando a investigar y desarrollar ideas por fuera del marco institucional. Próximamente sumaré **C++** a mi stack de aprendizaje.
+
+---
+
+## 📬 Contacto.
+
+- 📧 [micacaam97@gmail.com](mailto:micacaam97@gmail.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/micacaam/)  
+- 🐱‍💻 [GitHub](https://github.com/micaelacaamano)
+
+---
