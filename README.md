@@ -1,7 +1,7 @@
 <h1 align="center">Micaela Caamaño 💫</h1>
 
-<div align="center" style = justify-content: center;">
-  <img src="micaela.jpg" alt="Micaela" width="250" style = "border-radius: 15 px;" />
+<div align="center">
+  <img src="micaela.jpg" alt="Micaela" width="250" style="border-radius:15px;" />
 </div>
 
 
@@ -14,7 +14,7 @@
 
 Estudiante del último año de la **Tecnicatura Superior en Desarrollo de Software** en el **Instituto Superior Santo Domingo**.
 
-Me encuentro en una etapa de formación activa, enfocada en consolidar bases técnicas, con curiosidad genuina, y adquirir experiencia práctica. Con el objetivo claro de continuar forjando mi camino dentro del mundo tech y seguir creciendo profesionalmente. 
+Me encuentro en una etapa de formación activa, enfocada en consolidar bases técnicas y adquirir experiencia práctica, con el objetivo de continuar desarrollándome dentro del mundo tech y seguir creciendo profesionalmente.
 
 ***Este GitHub reúne proyectos académicos y trabajos de práctica que reflejan ese proceso 🌱.***
 
@@ -27,8 +27,6 @@ Me encuentro en una etapa de formación activa, enfocada en consolidar bases té
 A lo largo de la carrera trabajé con fundamentos de programación, lógica, bases de datos y desarrollo de aplicaciones. Me entusiasma la idea de poder crear en el futuro un sistema completo con las herramientas que hoy voy conociendo.
 
 A futuro, busco profundizar mis conocimientos en **bases de datos** e **inteligencia artificial**.
-
-Entiendo este camino como un proceso continuo, donde cada proyecto, cada error y cada mejora construyen algo más grande.
 
 
 ---
